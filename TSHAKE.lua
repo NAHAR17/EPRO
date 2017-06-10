@@ -1856,9 +1856,9 @@ end
 send(msg.chat_id_, msg.id_, 1, moody, 1, 'md')
 end
 
-if text == 'تشاكي' then 
+if text == 'كاسبر' then 
 if not database:get('bot:rep:mute'..msg.chat_id_) then
-moody = 'نـﮧ✥ـٍعٰٓـ๋͜م تفضل🕷❤️'
+moody = '😳خير  ياطير شكو😒☝️ كلساع صايحيني ماكدر ارتاح شويه😔☝️كلكم زواحف😹✋️كبر🤒'
 else 
 moody = ''
 end
