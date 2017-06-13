@@ -45,11 +45,11 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  sudo easy_install pip
  sudo pip install redis
  cd ..
- cd TshAkE
+ cd EPRO
  rm -rf "luarocks-2.2.2"
  wget "https://valtman.name/files/telegram-cli-1222"
  mv telegram-cli-1222 tg
  chmod +x tg
- chmod +x TSHAKE.sh
- chmod +x TSHAKE-Auto.sh
- ./TSHAKE.sh
+ chmod +x EPRO.sh
+ chmod +x EPRO-Auto.sh
+ ./EPRO.sh
