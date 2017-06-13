@@ -10,9 +10,9 @@
 
 افتح ترمنال وحط هذه الكودات 👇
 
-git clone https://github.com/KASPER1984/TshAkE.git
+git clone https://github.com/NAHAR17/EPRO.git
 
-cd TshAkE
+cd EPRO
 
 chmod +x install.sh
 
@@ -20,7 +20,7 @@ chmod +x install.sh
 
 او نصب بكود واحد
 
-git clone https://github.com/moodlIMyIl/TshAkE.git && cd TshAkE && chmod +x install.sh && ./install.sh
+git clone https://github.com/NAHAR17/EPRO.git && cd EPRO && chmod +x install.sh && ./install.sh
 
 ● وراح يطلب منك تحط اما y او n تختار دائما y وانتر ●
 
